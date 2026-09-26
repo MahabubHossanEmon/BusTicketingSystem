@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BusTicketingSystem.Domain/BusTicketingSystem.Domain.csproj" />
+  <Project Path="BusTicketingSystem.Application/BusTicketingSystem.Application.csproj" />
+  <Project Path="BusTicketingSystem.Infrastructure/BusTicketingSystem.Infrastructure.csproj" />
+  <Project Path="BusTicketingSystem.WebApi/BusTicketingSystem.WebApi.csproj" />
+</Solution>
